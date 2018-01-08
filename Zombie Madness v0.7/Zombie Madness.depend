@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1270945622 source:c:\users\billy\desktop\c++ projects\zombie madness\main.cpp
+	<iostream>
+	<curses.h>
+	<panel.h>
+	<ctime>
+	<math.h>
+	"animations.h"
+
+1216127606 d:\codeblocks\pdcurs34\\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1215950896 d:\codeblocks\pdcurs34\\panel.h
+	<curses.h>
+
+1270690258 c:\users\billy\desktop\c++ projects\zombie madness\animations.h
+
+1276440046 source:d:\c++ projects\zombie madness\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<panel.h>
+	<math.h>
+	"animations.h"
+
+1270690258 d:\c++ projects\zombie madness\animations.h
+
+1216124006 c:\codeblocks\pdcurs34\\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1215947296 c:\codeblocks\pdcurs34\\panel.h
+	<curses.h>
+
+1262870834 l:\dev-cpp\include\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1107041724 l:\dev-cpp\include\stdarg.h
+
+1107041724 l:\dev-cpp\include\stddef.h
+
+1107041724 l:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107041724 l:\dev-cpp\include\_mingw.h
+
+1107041724 l:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 l:\dev-cpp\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107041724 l:\dev-cpp\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 l:\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1262870834 l:\dev-cpp\include\panel.h
+	<curses.h>
+
+1107041724 l:\dev-cpp\include\math.h
+	<_mingw.h>
+
+1276445667 source:c:\users\marky\desktop\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<panel.h>
+	<math.h>
+	"animations.h"
+
+1270690258 c:\users\marky\desktop\zombie madness v0.7\animations.h
+
+1317827232 source:h:\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<math.h>
+	"animations.h"
+
+1317763646 h:\zombie madness v0.7\animations.h
+
+1216124006 h:\dev-cpp\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1107041724 h:\dev-cpp\include\stdarg.h
+
+1107041724 h:\dev-cpp\include\stddef.h
+
+1107041724 h:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107041724 h:\dev-cpp\include\_mingw.h
+
+1107041724 h:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 h:\dev-cpp\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107041724 h:\dev-cpp\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 h:\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1107041724 h:\dev-cpp\include\math.h
+	<_mingw.h>
+
+1321454860 source:e:\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<math.h>
+	"animations.h"
+
+1216124006 e:\dev-cpp\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1107041724 e:\dev-cpp\include\stdarg.h
+
+1107041724 e:\dev-cpp\include\stddef.h
+
+1107041724 e:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107041724 e:\dev-cpp\include\_mingw.h
+
+1107041724 e:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 e:\dev-cpp\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107041724 e:\dev-cpp\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 e:\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1107041724 e:\dev-cpp\include\math.h
+	<_mingw.h>
+
+1317763646 e:\zombie madness v0.7\animations.h
+
+1321349186 source:d:\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<math.h>
+	"animations.h"
+
+1216124006 d:\dev-cpp\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1107041724 d:\dev-cpp\include\stdarg.h
+
+1107041724 d:\dev-cpp\include\stddef.h
+
+1107041724 d:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107041724 d:\dev-cpp\include\_mingw.h
+
+1107041724 d:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 d:\dev-cpp\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107041724 d:\dev-cpp\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 d:\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1107041724 d:\dev-cpp\include\math.h
+	<_mingw.h>
+
+1317763646 d:\zombie madness v0.7\animations.h
+
+1321454860 source:f:\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<math.h>
+	"animations.h"
+
+1317763646 f:\zombie madness v0.7\animations.h
+
+1321454860 source:c:\users\marky\desktop\programming stuff\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<math.h>
+	"animations.h"
+
+1317763646 c:\users\marky\desktop\programming stuff\zombie madness v0.7\animations.h
+
+1321458460 source:f:\programming stuff\zombie madness v0.7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<curses.h>
+	<math.h>
+	"animations.h"
+
+1317767246 f:\programming stuff\zombie madness v0.7\animations.h
+

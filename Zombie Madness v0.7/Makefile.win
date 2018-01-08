@@ -1,0 +1,33 @@
+# Project: Zombie Madness
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = animations.o main.o $(RES)
+LINKOBJ  = animations.o main.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" -L"H:/Dev-Cpp/pdcurses" -L"H:/Dev-Cpp/pdcurses/pdcurses" H:/Dev-Cpp/pdcurses/win32/panel.a H:/Dev-Cpp/pdcurses/win32/pdcurses.a  
+INCS =  -I"C:/Dev-Cpp/include"  -I"H:/Dev-Cpp/pdcurses"  -I"H:/Dev-Cpp/pdcurses/pdcurses" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include"  -I"H:/Dev-Cpp/pdcurses"  -I"H:/Dev-Cpp/pdcurses/pdcurses" 
+BIN  = "Zombie Madness.exe"
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before "Zombie Madness.exe" all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Zombie Madness.exe" $(LIBS)
+
+animations.o: animations.cpp
+	$(CPP) -c animations.cpp -o animations.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)

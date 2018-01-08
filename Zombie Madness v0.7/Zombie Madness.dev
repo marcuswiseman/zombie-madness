@@ -1,0 +1,79 @@
+[Project]
+FileName=Zombie Madness.dev
+Name=Zombie Madness
+UnitCount=3
+Type=1
+Ver=1
+ObjFiles=
+Includes=H:\Dev-Cpp\pdcurses;H:\Dev-Cpp\pdcurses\pdcurses
+Libs=H:\Dev-Cpp\pdcurses;H:\Dev-Cpp\pdcurses\pdcurses
+PrivateResource=
+ResourceIncludes=H:\Dev-Cpp\pdcurses\pdcurses;H:\Dev-Cpp\pdcurses
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=H:/Dev-Cpp/pdcurses/win32/panel.a_@@_H:/Dev-Cpp/pdcurses/win32/pdcurses.a_@@_
+IsCpp=1
+Icon=
+ExeOutput=
+ObjectOutput=
+OverrideOutput=0
+OverrideOutputName=Zombie Madness.exe
+HostApplication=
+Folders=
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=0
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000
+
+[Unit1]
+FileName=animations.cpp
+CompileCpp=1
+Folder=Zombie Madness
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=animations.h
+CompileCpp=1
+Folder=Zombie Madness
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit3]
+FileName=main.cpp
+CompileCpp=1
+Folder=Zombie Madness
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[VersionInfo]
+Major=0
+Minor=1
+Release=1
+Build=1
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=
+FileDescription=Developed using the Dev-C++ IDE
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=
+AutoIncBuildNr=0
+
